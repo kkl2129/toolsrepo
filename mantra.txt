@@ -1,4 +1,5 @@
 Python p
 mmmmmmmmmm
 code
-type
+tdd som etstuf
+ype
